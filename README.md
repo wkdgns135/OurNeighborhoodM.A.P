@@ -1,2 +1,2 @@
 # OurNeighborhoodM.A.P
-WelTechCompetition
+아동 대상 SNS Web 사이트
